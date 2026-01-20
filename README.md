@@ -24,3 +24,5 @@ python src/main.py
 1. To delete a segment or an arc, select it and press DELETE
 1. To remove a constraint, left click its icon and press DELETE
 1. Press 'i' to print some debug information
+
+## Installing it as a module
